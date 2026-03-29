@@ -1,4 +1,4 @@
-# 📚 Sistema_de_Livraria
+# 📚 Sistema_de_Biblioteca
 
 Um sistema de gerenciamento de biblioteca simples, desenvolvido com o objetivo de consolidar conceitos fundamentais da linguagem **Java** e Programação Orientada a Objetos (POO).
 
